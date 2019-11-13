@@ -10,7 +10,7 @@
 
 <script>
 import CheckFilter from '@/components/CheckFilter.vue';
-import genres from '../utils/genres.js'
+
 export default {
     props: {
         genres: Object
